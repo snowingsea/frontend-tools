@@ -11,5 +11,8 @@
     "url": "*"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
