@@ -1,9 +1,15 @@
-Gulp模板
+Gulp Template
 ===
 
-Tasks:
+Environment :
 ---
+ - Node
+ - Gulp
+   > `npm install -g gulp`
 
+
+Tasks :
+---
  - uglify
  - clean-css
  - less
