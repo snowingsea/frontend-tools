@@ -1,0 +1,20 @@
+{
+  "asi"      : true,
+  "boss"     : true,
+  "browser"  : true,
+	"curly"    : true,
+  "debug"    : true,
+  "devel"    : true,
+  "eqeqeq"   : false,
+  "eqnull"   : true,
+  "expr"     : true,
+	"immed"    : true,
+  "laxbreak" : true,
+  "newcap"   : true,
+	"noarg"    : true,
+	"node"     : true,
+  "noempty"  : true,
+	"undef"    : true,
+  "unused"   : true,
+  "validthis": true
+}
